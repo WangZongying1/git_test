@@ -1,6 +1,6 @@
 #include<iostream>
 int main()
 {
-	cout<<"我爱zx"<<endl;
+	cout<<"zx爱zy"<<endl;
 	return 0;
 }
